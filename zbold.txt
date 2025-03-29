@@ -1,0 +1,68 @@
+1a: video
+1b: images
+1b: speech
+1c: creating
+1c: reasoning
+1c: decisions
+1c: interacting like a human
+1d: Generative AI
+1d: Agentic AI
+1d: Autonomous AI
+1d: A
+1d: rtificial General Intelligence
+2a: new content
+2d: self-
+2e: Diffusion Models
+2e: reconstruct
+2f: U-Net
+2f: architectures
+2g: multiple formats
+2g: multi-mod
+2g: a
+2g: l transformer
+2g: model
+2h: vector space
+3a: executes tasks
+3a: memory
+3a: planning
+3a: reinforcement learning
+3b: continuously improv
+3b: ing
+3c: databases
+3c: APIs
+3c: reasoning
+3c: automated
+3d: order
+3d: shipping
+3d: discount
+3d: customer
+3e: perception
+3e: language
+3e: reasoning
+3e: memory
+3e: planning
+4a: digital
+4a: physical
+4b: sensors
+4b: reinforcement
+4b: learning
+4b: computer vision
+4b: roads
+4c: control
+4c: systems
+5a: human
+5b: c
+5b: ausal reasonin
+5b: f
+5b: ew-shot learning
+5d: assistants
+5d: scheduling
+5e: repetitive tasks
+5e: creativity
+5e: complex decision-making
+5f: analyze
+5f: drug compounds
+5f: cures
+6a: learning
+6a: AI
+6b: understanding AI

@@ -1,0 +1,35 @@
+1. AI Has Grown Up
+   a. This is a follow-up to a *video* I created about 7 years back titled “What is AI in 5 minutes.” Since then, a lot has changed, so here’s a sequel with the additional information.  The information in the original video is still all true. Think of this one as part two.
+   b. When we last talked about AI, it was getting good at recognizing *images*, understanding *speech*, and analyzing data. 
+   c. Today, AI is *creating*, *reasoning*, making *decisions*, and even *interacting like a human*.
+   d. Some of the biggest breakthroughs are: *Generative AI*, *Agentic AI*, *Autonomous AI*, and the journey toward *A**rtificial General Intelligence*.
+2. Generative AI: AI That Creates Like a Human
+   a. Let’s first start with Generative AI or ChatGPT kind of models, that most of us are familiar with by now.  Generative AI has gone beyond just analyzing data to producing *new content* from scratch. 
+   b. Gen AI is built on Large Language Models (LLMs) like GPT to predict words, by analyzing massive amounts of text and learning their probabilities of occurring close together. 
+   c. They use deep neural networks, specifically transformer architectures, which are a type of neural network designed to handle sequential data efficiently. 
+   d. Transformers improve upon traditional neural networks by using *self-*, attention mechanisms, allowing the model to weigh the importance of different words in a sentence and understand context over long passages of text.
+   e. *Diffusion Models* create images by starting with random noise and refining it step by step. They work by gradually reversing a process that initially adds noise to an image, training the model to *reconstruct* the original image from the noisy version. 
+   f. This is achieved through deep neural networks, typically using *U-Net* *architectures*, which learn to predict and remove noise at each step, ultimately generating high-quality and realistic images.
+   g. Multimodal AI integrates text, images, and audio, allowing AI to understand and generate content in *multiple formats*. It achieves this by using specialized transformer-based models called *multi-mod**a**l transformer* *model*, that can process and align different types of data within a shared representation space. 
+   h. As you know from my previous machine learning video, AI’s main way to understand the world is to map concepts in some representation space. This is often a *vector space*.  In here, by learning relationships between modalities, Multimodal AI can perform tasks like describing images in text, generating images from text prompts, or even creating videos with synchronized audio and captions.
+3. The Rise of Agentic AI: AI That Acts on Its Own
+   a. And then there is Agentic AI.  Traditional AI follows instructions, but Agentic AI makes decisions and *executes tasks* independently. It uses *memory*, *planning*, and *reinforcement learning* to execute tasks without human intervention. 
+   b. It does so by breaking down complex goals into smaller steps, adapting when things go wrong, and *continuously improv**ing*.
+   c. One of the common use cases for Agentic AI is that it integrates LLMs with external tools like *databases*, *APIs*, and *reasoning* frameworks. This allows AI agents to go beyond simple text generation and interact dynamically with external systems, retrieving real-time information, performing calculations, or executing *automated* tasks. 
+   d. For example, when a customer asks, “Where’s my order?” Instead of just providing a generic response, the AI, can query the *order* database to retrieve the real-time status, call the *shipping* API to get the latest tracking update, analyze previous customer interactions to offer proactive support like offering a *discount* if the order is delayed, and automatically send an update to the *customer*, reducing the need for human intervention.
+   e. Agentic AI relies on deep learning for *perception* and *language* understanding but also integrates symbolic *reasoning*, *memory*, and goal-oriented *planning*, which go beyond deep learning.
+4. Autonomous AI: Machines That Can Think and Act in the Real World
+   a. The AI we just discussed was all *digital*. But now AI can also interact in the *physical* world.
+   b. For example, Robotic AI combines *sensors*, *reinforcement* *learning*, and *computer vision* to navigate real-world environments. We know about self-driving cars navigating *roads*. They use sensor fusion (LiDAR, radar, cameras) plus neural networks to detect objects and predict motion.
+   c. Technology-wise, this type of AI uses deep learning, *control **systems*, reinforcement learning, and symbolic reasoning.
+5. AI That Thinks: The Next Step Toward AGI (Artificial General Intelligence)
+   a. And then there is the end game, which is Artificial General Intelligence. Right now, AI is still narrow—it can master one task at a time. The dream is AGI, where AI can think, learn, and reason like a *human*.
+   b. How would it work? Instead of just predicting outcomes, it would use *c**ausal reasonin*g to understand why things happen. It would use *f**ew-shot learning* to learn from a few examples, just like humans, unlike today’s AI, which requires huge datasets.
+   c. The Future: What’s Next for AI?
+   d. Here are some optimistic examples of how the future could be shaped by AI. Personalized AI Assistants: AI *assistants* are evolving to predict what you need before you even ask, from *scheduling* meetings to reminding you about daily tasks. Over time, they learn your habits, preferences, and routines, making life smoother and more efficient.
+   e. AI-Human Collaboration: AI acts as a powerful tool that helps humans think faster and work smarter, whether in business, art, or science. Instead of replacing jobs, it automates *repetitive tasks* and provides insights, allowing people to focus on *creativity* and *complex decision-making*.
+   f. AI for Science & Medicine: Instead of slow trial-and-error testing, AI can *analyze* millions of potential *drug compounds* in a fraction of the time. This accelerates the discovery of new treatments, helping researchers find *cures* for diseases faster and more efficiently.
+6. Staying ahead
+   a. With all this going on, how can you stay ahead? The best thing you can do is continue *learning* how *AI* works, experiment with tools, and stay informed.
+   b. AI can help you work smarter. AI literacy is as important as digital literacy—*understanding AI* will be a key skill for the future.
+   c. If you enjoyed this video, like, share, and subscribe for more AI updates. For a one-page visual of this and all future videos, please sign up on my website. Thanks for watching.
