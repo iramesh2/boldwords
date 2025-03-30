@@ -404,10 +404,19 @@ def main():
                 st.success(f"Successfully extracted {len(extracted_words)} bold words")
                 st.text_area("Extracted Bold Words", "\n".join(output_text), height=400)
                 
-                # Add a download button for the text
+                # Create simplified format for download (like zbold.txt)
+                simplified_output = []
+                for section_id in sorted(sections.keys()):
+                    for subsection_id in sorted(sections[section_id].keys()):
+                        section_subsection = f"{section_id}{subsection_id}"
+                        words = sections[section_id][subsection_id]
+                        for word in words:
+                            simplified_output.append(f"{section_subsection}: {word}")
+                
+                # Add a download button for the text in simplified format
                 st.download_button(
                     label="Download as Text",
-                    data="\n".join(output_text),
+                    data="\n".join(simplified_output),
                     file_name="extracted_bold_words.txt",
                     mime="text/plain"
                 )
